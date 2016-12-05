@@ -1,4 +1,5 @@
-# Project Name #
+  # Project Name #
+  Task on Time
 
 <!-- 
 > This material was originally posted [here](http://www.quora.com/What-is-Amazons-approach-to-product-development-and-product-management). It is reproduced here for posterities sake.
@@ -17,28 +18,64 @@ Once the project moves into development, the press release can be used as a touc
  -->
  
 ## Heading ##
-  > Name the product in a way the reader (i.e. your target customers) will understand.
+  > Name the product in a way the reader (i.e. your target customers) will understand. 
+  
+  Task on Time allows users to keep track of their daily tasks with a simple and easy to use interface.
 
 ## Sub-Heading ##
   > Describe who the market for the product is and what benefit they get. One sentence only underneath the title.
+  
+  Allow busy individuals to keep track of their tasks in a timely manner.
 
 ## Summary ##
   > Give a summary of the product and the benefit. Assume the reader will not read anything else so make this paragraph good.
+  
+  The product will allow users to create a to do list and manage their day-to-day activities in a timely manner.
 
 ## Problem ##
   > Describe the problem your product solves.
+  
+  It is easy to lose track of time while multitasking.  This product will allow users to stay on schedule by managing their tasks in a set timeframe.
 
 ## Solution ##
   > Describe how your product elegantly solves the problem.
+  
+  It will use a clean interaface to show the tasks that need to be completed along with the time allotted to complete them.
 
 ## Quote from You ##
   > A quote from a spokesperson in your company.
+  
+  Time management is critical aspect of task management.
 
 ## How to Get Started ##
   > Describe how easy it is to get started.
+  
+  Simply add a task and the time in which the subtasks need to be completed by and the app will output your workflow.
 
 ## Customer Quote ##
   > Provide a quote from a hypothetical customer that describes how they experienced the benefit.
+  
+  Task on Time greatly helped to organize my daily workflow.  It was worth every penny of the $199 that I paid for it.
 
 ## Closing and Call to Action ##
   > Wrap it up and give pointers where the reader should go next.
+  
+  Task on Time is intuitive and and ready to use right out of the appStore.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
